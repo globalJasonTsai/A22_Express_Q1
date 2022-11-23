@@ -13,7 +13,7 @@ git clone https://github.com/globalJasonTsai/A22_Express_Q1.git
 3. 切至檔案內
 
 ```
-cd restaurant
+cd A22_Express_Q1
 ```
 
 4. 安裝 npm 套件
